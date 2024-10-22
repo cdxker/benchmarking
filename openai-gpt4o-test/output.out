@@ -1,0 +1,9 @@
+Running 30s test @ https://api.openai.com/v1/chat/completions
+  12 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    71.04ms   36.10ms   1.11s    75.45%
+    Req/Sec    42.56     10.94    80.00     61.34%
+  15319 requests in 30.01s, 19.75MB read
+  Non-2xx or 3xx responses: 15319
+Requests/sec:    510.42
+Transfer/sec:    673.91KB
