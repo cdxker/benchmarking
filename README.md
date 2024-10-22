@@ -58,7 +58,8 @@ wrk.headers["X-API-KEY"] = "sk-******************************"
 ```sh
 ./bench g openai-gpt4o-test
 ```
+\* not tested yet, should just use wrk2img though and auto work
 
-* not tested yet, should just use wrk2img though and auto work
+## Examples
 
-
+An example of the files it makes is located (here)[./openai-gpt4o-test-example/]
